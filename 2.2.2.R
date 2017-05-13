@@ -1,11 +1,6 @@
 #edited for git
 
-#third edition
-
-df <- data.frame(x = 1:4, y = LETTERS[1:4], z = c(T, F),
-                 row.names = c("Alpha", "Bravo",
-                               "Charlie", "Delta"))
-
+#fourth edition
 
 #2.2.5
 #step 1
